@@ -12,8 +12,8 @@ public class Task1 {
         double d1 = 4047.6937071833308311d;
         int num = 1571;
         char value = 'I';
-        double num1 = 3492.9436366245830913d;
-        char ch1 = 'c';
+        float num1 = 3492.9436366245830913f;
+        char ch1 = 'c' +8;
         int num2 = 8956;
     }
 }
